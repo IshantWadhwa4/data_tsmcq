@@ -1,0 +1,193 @@
+{
+  "student_name": "Ishant",
+  "student_email": "",
+  "student_id": "",
+  "exam_token": "test_1751717672",
+  "test_info": {
+    "subject": "Physics",
+    "topics": [
+      "Optics",
+      "Laws of Motion"
+    ],
+    "difficulty": "Mix",
+    "created_at": "2025-07-05T17:45:21.744484"
+  },
+  "completed_at": "2025-07-05T17:51:30.724249",
+  "score": {
+    "total_questions": 10,
+    "correct_answers": 4,
+    "score_percentage": 40.0,
+    "results": [
+      {
+        "question_number": 1,
+        "question_text": "A convex lens has a focal length of 10 cm. What is the image distance for an object distance of 15 cm?",
+        "options": {
+          "A": "30 cm",
+          "B": "15 cm",
+          "C": "10 cm",
+          "D": "5 cm"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "By using lens formula 1/f = 1/v - 1/u, where f is the focal length, v is the image distance and u is the object distance, we can solve for v to get 30 cm.",
+        "topic": "Optics",
+        "subtopic": "Lens equations",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 2,
+        "question_text": "What happens when a ray of light strikes a glass surface at an incidence angle of 90 degrees?",
+        "options": {
+          "A": "It is refracted at an angle of 90 degrees",
+          "B": "It is reflected back into the medium",
+          "C": "It is absorbed by the glass",
+          "D": "It passes straight through without deviation"
+        },
+        "student_answer": "B",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "When the incidence angle is 90 degrees, the ray of light strikes the glass surface normally (perpendicularly), and there is no deviation of the light ray. It passes straight through the glass surface.",
+        "topic": "Optics",
+        "subtopic": "Reflection/refraction",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 3,
+        "question_text": "A block of mass m is in equilibrium under the action of force F and friction f. Which of the following conditions must be true?",
+        "options": {
+          "A": "F = f",
+          "B": "F > f",
+          "C": "F < f",
+          "D": "None of the above"
+        },
+        "student_answer": "B",
+        "correct_answer": "A",
+        "is_correct": false,
+        "explanation": "In equilibrium, net force acting on the body is zero. So, the applied force F should be equal to the friction force f.",
+        "topic": "Laws of Motion",
+        "subtopic": "Equilibrium conditions",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Which of the following is NOT an optical instrument?",
+        "options": {
+          "A": "Microscope",
+          "B": "Telescope",
+          "C": "Periscope",
+          "D": "Thermometer"
+        },
+        "student_answer": "B",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "A thermometer is not an optical instrument. It is a device used for measuring temperature.",
+        "topic": "Optics",
+        "subtopic": "Optical instruments",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 5,
+        "question_text": "The resolving power of a microscope is directly related to which of the following?",
+        "options": {
+          "A": "The wavelength of light used",
+          "B": "The size of the objective lens",
+          "C": "The distance between the objective lens and the specimen",
+          "D": "The magnification of the microscope"
+        },
+        "student_answer": "C",
+        "correct_answer": "A",
+        "is_correct": false,
+        "explanation": "The resolving power of a microscope is directly related to the wavelength of the light used. Shorter wavelengths yield higher resolution.",
+        "topic": "Optics",
+        "subtopic": "Resolving power",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 6,
+        "question_text": "In a double-slit experiment, if the wavelength of light and the distance between slits are both increased, what happens to the fringe spacing?",
+        "options": {
+          "A": "It decreases",
+          "B": "It increases",
+          "C": "It remains the same",
+          "D": "Cannot be determined"
+        },
+        "student_answer": "B",
+        "correct_answer": "B",
+        "is_correct": true,
+        "explanation": "The fringe spacing in a double-slit experiment is directly proportional to both the wavelength of light used and the distance between the slits. Therefore, if both are increased, the fringe spacing will increase.",
+        "topic": "Optics",
+        "subtopic": "Interference",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 7,
+        "question_text": "A block of mass m is pulled on a horizontal frictionless surface by a force F. What is the acceleration of the block?",
+        "options": {
+          "A": "F/m",
+          "B": "m/F",
+          "C": "F",
+          "D": "m"
+        },
+        "student_answer": "B",
+        "correct_answer": "A",
+        "is_correct": false,
+        "explanation": "According to Newton's second law of motion, acceleration is directly proportional to the net force and inversely proportional to the mass of the object. Hence, acceleration = F/m.",
+        "topic": "Laws of Motion",
+        "subtopic": "Newton\u2019s laws",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which of the following best describes diffraction?",
+        "options": {
+          "A": "The bending of light as it passes through a narrow opening",
+          "B": "The reflection of light off a surface",
+          "C": "The splitting of light into its constituent colors",
+          "D": "The absorption of light by a medium"
+        },
+        "student_answer": "B",
+        "correct_answer": "A",
+        "is_correct": false,
+        "explanation": "Diffraction is the bending of light as it passes around an obstacle or through a narrow opening.",
+        "topic": "Optics",
+        "subtopic": "Diffraction",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 9,
+        "question_text": "In a pulley system, if the tension in the rope is increased, what happens to the acceleration of the system?",
+        "options": {
+          "A": "It increases",
+          "B": "It decreases",
+          "C": "It remains the same",
+          "D": "Cannot be determined"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The acceleration in a pulley system is directly proportional to the tension in the rope. So, if tension is increased, the acceleration of the system will also increase.",
+        "topic": "Laws of Motion",
+        "subtopic": "Pulley systems",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 10,
+        "question_text": "What does Newton's third law of motion state?",
+        "options": {
+          "A": "Every action has an equal and opposite reaction",
+          "B": "Force equals mass times acceleration",
+          "C": "An object at rest tends to stay at rest",
+          "D": "The rate of change of momentum of a body is directly proportional to the force applied"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "Newton's third law of motion states that for every action, there is an equal and opposite reaction.",
+        "topic": "Laws of Motion",
+        "subtopic": "Newton\u2019s laws",
+        "difficulty": "Easy"
+      }
+    ]
+  }
+}
