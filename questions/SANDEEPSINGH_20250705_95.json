@@ -1,0 +1,137 @@
+{
+  "teacher_name": "sandeep singh",
+  "test_id": "SANDEEPSINGH_20250705_95",
+  "created_at": "2025-07-05T18:46:01.082692",
+  "subject": "Physics",
+  "topics": [
+    "Current Electricity",
+    "Modern Physics",
+    "Gravitation"
+  ],
+  "additional_info": "ask IITJEE level questions also include some numeric questions",
+  "difficulty": "Hard",
+  "total_questions": 8,
+  "exam_duration_minutes": 30,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Two resistances R1 and R2 are connected in series. Suppose that R1 dissipates power P1 and R2 dissipates power P2. If R2 is removed from the circuit, how will the power dissipated by R1 change?",
+      "options": {
+        "A": "It will increase",
+        "B": "It will decrease",
+        "C": "It will remain the same",
+        "D": "It can either increase or decrease depending on the values of R1 and R2"
+      },
+      "correct_answer": "B",
+      "explanation": "In series, the total resistance increases hence the current decreases. If R2 is removed, the total resistance decreases, and the current increases. But the power P=I^2R, so the power on R1 decreases because R1 is constant.",
+      "topic": "Current Electricity",
+      "subtopic": "Resistances in Series",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 2,
+      "question_text": "A potentiometer wire of length 100 cm has a resistance of 10 \u03a9. It is connected to a battery of emf 2V and internal resistance 5 \u03a9. The potential gradient along the potentiometer wire is",
+      "options": {
+        "A": "1 mV/cm",
+        "B": "2 mV/cm",
+        "C": "0.2 mV/cm",
+        "D": "2.5 mV/cm"
+      },
+      "correct_answer": "A",
+      "explanation": "Potential gradient = Voltage/length. Here, total resistance = 10\u03a9 (from the wire) + 5\u03a9 (internal resistance) = 15\u03a9. So, V = I*R = 2V. Thus, potential gradient = 2V/100cm = 0.02V/cm = 2 mV/cm.",
+      "topic": "Current Electricity",
+      "subtopic": "Potentiometer",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The angular momentum of an electron in the Bohr model of the hydrogen atom depends on",
+      "options": {
+        "A": "The principal quantum number",
+        "B": "The azimuthal quantum number",
+        "C": "The magnetic quantum number",
+        "D": "The spin quantum number"
+      },
+      "correct_answer": "A",
+      "explanation": "In the Bohr model of the hydrogen atom, the angular momentum of an electron is given by mvr = nh/2\u03c0, where n is the principal quantum number. So, the angular momentum depends on the principal quantum number.",
+      "topic": "Modern Physics",
+      "subtopic": "Bohr\u2019s model",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 4,
+      "question_text": "A radioactive material decays to 12.5% of its initial amount in 30 days. What is the half-life of the material?",
+      "options": {
+        "A": "10 days",
+        "B": "15 days",
+        "C": "20 days",
+        "D": "30 days"
+      },
+      "correct_answer": "A",
+      "explanation": "N=N0*(1/2)^(t/T), where N is the final quantity, N0 is the initial quantity, t is the time elapsed, T is the half-life. Here, N/N0 = 0.125 = (1/2)^(t/T). So, in 30 days, the material undergoes 3 half-lives. Hence, the half-life of the material is 30/3 = 10 days.",
+      "topic": "Modern Physics",
+      "subtopic": "Nuclear decays",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 5,
+      "question_text": "A satellite is in a circular orbit around the earth. The work done by the gravitational force on the satellite for each complete orbit is",
+      "options": {
+        "A": "Zero",
+        "B": "Depends on the mass of the satellite",
+        "C": "Depends on the radius of the orbit",
+        "D": "Depends on the speed of the satellite"
+      },
+      "correct_answer": "A",
+      "explanation": "The gravitational force on the satellite is a central force and it is always perpendicular to the velocity of the satellite. Since the angle between the force and the displacement is 90 degrees, the work done by the gravitational force for each complete orbit is zero.",
+      "topic": "Gravitation",
+      "subtopic": "Satellite motion",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 6,
+      "question_text": "In a common base transistor amplifier, the phase difference between the input and the output is",
+      "options": {
+        "A": "0\u00b0",
+        "B": "90\u00b0",
+        "C": "180\u00b0",
+        "D": "360\u00b0"
+      },
+      "correct_answer": "C",
+      "explanation": "In a common base transistor amplifier, the output is 180\u00b0 out of phase with the input. This is because the input signal is applied to the emitter-base junction and the output is taken from the collector-base junction.",
+      "topic": "Modern Physics",
+      "subtopic": "Semiconductors",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The energy equivalent of 1 g of a substance is",
+      "options": {
+        "A": "9 x 10^13 J",
+        "B": "9 x 10^14 J",
+        "C": "9 x 10^15 J",
+        "D": "9 x 10^16 J"
+      },
+      "correct_answer": "A",
+      "explanation": "The energy equivalent of mass m is given by E=mc^2, where c is the speed of light. Substituting m = 1 g = 10^-3 kg and c = 3 x 10^8 m/s, we get E = 9 x 10^13 J.",
+      "topic": "Modern Physics",
+      "subtopic": "Mass\u2011energy equivalence",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 8,
+      "question_text": "A photoelectric cell is illuminated by light of wavelength 400 nm. If the stopping potential is 0.5V, what is the work function of the material of the cell?",
+      "options": {
+        "A": "2.5 eV",
+        "B": "2.0 eV",
+        "C": "1.5 eV",
+        "D": "1.0 eV"
+      },
+      "correct_answer": "B",
+      "explanation": "The energy of the incident light is E = hc/\u03bb, where h is Planck\u2019s constant, c is the speed of light, and \u03bb is the wavelength. The work function is the energy required to remove an electron from the material, which is given by E - eV, where e is the charge of the electron and V is the stopping potential. Substituting the given values, we get a work function of approximately 2.0 eV.",
+      "topic": "Modern Physics",
+      "subtopic": "Photoelectric Effect",
+      "difficulty": "Hard"
+    }
+  ]
+}
