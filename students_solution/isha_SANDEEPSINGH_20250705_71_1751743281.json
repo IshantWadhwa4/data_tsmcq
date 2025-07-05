@@ -1,0 +1,198 @@
+{
+  "student_name": "isha",
+  "student_email": "",
+  "student_id": "",
+  "test_id": "SANDEEPSINGH_20250705_71",
+  "teacher_name": "Sandeep Singh",
+  "test_info": {
+    "subject": "Chemistry",
+    "topics": [
+      "Electrochemistry",
+      "p-Block Elements"
+    ],
+    "difficulty": "Hard",
+    "created_at": "2025-07-05T17:55:43.204435",
+    "total_questions": 10,
+    "exam_duration_minutes": 60
+  },
+  "completed_at": "2025-07-06T00:51:21.108967",
+  "time_taken_minutes": 0,
+  "auto_submitted": false,
+  "score": {
+    "total_questions": 10,
+    "correct_answers": 6,
+    "score_percentage": 60.0,
+    "results": [
+      {
+        "question_number": 1,
+        "question_text": "In a concentration cell, if the concentration of electrolyte in both the half cells is made equal, what will be the EMF of the cell?",
+        "options": {
+          "A": "Equal to electrode potential",
+          "B": "Zero",
+          "C": "Infinity",
+          "D": "Cannot be determined"
+        },
+        "student_answer": "B",
+        "correct_answer": "B",
+        "is_correct": true,
+        "explanation": "In a concentration cell, the EMF is generated due to the difference in concentrations. If the concentrations are made equal, there will be no potential difference and hence, the EMF will be zero.",
+        "topic": "Electrochemistry",
+        "subtopic": "Concentration cells",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 2,
+        "question_text": "The standard electrode potential for the Daniell Cell is 1.1 V at 298K. If the concentration of Zn2+ ions is 0.1M and that of Cu2+ ions is 1M, what will be the EMF of the cell at 298K?",
+        "options": {
+          "A": "1.06 V",
+          "B": "1.1 V",
+          "C": "1.14 V",
+          "D": "1.2 V"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "Using the Nernst equation, we find that the EMF of the cell is 1.06 V.",
+        "topic": "Electrochemistry",
+        "subtopic": "Nernst equation",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 3,
+        "question_text": "Which of the following statements is incorrect about the oxides of Nitrogen?",
+        "options": {
+          "A": "N2O is neutral",
+          "B": "NO2 is acidic",
+          "C": "N2O5 is basic",
+          "D": "NO is neutral"
+        },
+        "student_answer": "A",
+        "correct_answer": "C",
+        "is_correct": false,
+        "explanation": "N2O5 is actually acidic, not basic. It can donate protons and react with water to form HNO3.",
+        "topic": "p-Block Elements",
+        "subtopic": "Oxides of Nitrogen",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Which of the following elements does not show allotropy?",
+        "options": {
+          "A": "Oxygen",
+          "B": "Sulphur",
+          "C": "Carbon",
+          "D": "Fluorine"
+        },
+        "student_answer": "B",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "Fluorine does not show allotropy. It exists only in one form, F2.",
+        "topic": "p-Block Elements",
+        "subtopic": "Allotropy",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 5,
+        "question_text": "Which of the following halides of group 15 elements is least likely to hydrolyze?",
+        "options": {
+          "A": "PH3",
+          "B": "AsH3",
+          "C": "NH3",
+          "D": "SbH3"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "PH3 is least likely to hydrolyze due to the small size and high electronegativity of phosphorous, which makes the P-H bond stronger and less likely to break in water.",
+        "topic": "p-Block Elements",
+        "subtopic": "Hydrides",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 6,
+        "question_text": "A galvanic cell operates through a redox reaction Zn(s) + Cu2+(aq) \u2192 Zn2+(aq) + Cu(s). If the cell potential is 1.1V at 298K, what will be the cell potential when the temperature is raised to 308K, keeping the concentrations same?",
+        "options": {
+          "A": "1.1 V",
+          "B": "More than 1.1 V",
+          "C": "Less than 1.1 V",
+          "D": "Cannot be determined"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The cell potential does not depend on the temperature if the reaction quotient is not changing. Therefore, the cell potential will remain the same.",
+        "topic": "Electrochemistry",
+        "subtopic": "Galvanic cells",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 7,
+        "question_text": "The standard reduction potential for Fe3+/Fe2+ is +0.77 V and for I2/I- is +0.54 V. Which one is a better oxidizing agent and why?",
+        "options": {
+          "A": "Fe3+ because it has higher reduction potential",
+          "B": "I2 because it has lower reduction potential",
+          "C": "Fe3+ because it has lower reduction potential",
+          "D": "I2 because it has higher reduction potential"
+        },
+        "student_answer": "B",
+        "correct_answer": "A",
+        "is_correct": false,
+        "explanation": "A higher reduction potential indicates a greater tendency to gain electrons and thus be reduced. Therefore, Fe3+ is a better oxidizing agent because it has a higher standard reduction potential.",
+        "topic": "Electrochemistry",
+        "subtopic": "Redox reactions",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which of the following compounds of Xenon does not exist?",
+        "options": {
+          "A": "XeF2",
+          "B": "XeF4",
+          "C": "XeF6",
+          "D": "XeF8"
+        },
+        "student_answer": "A",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "Xenon hexafluoride (XeF6) is the highest fluoride of Xenon that exists. Xenon octafluoride (XeF8) does not exist.",
+        "topic": "p-Block Elements",
+        "subtopic": "Group 18 elements",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 9,
+        "question_text": "A cell has an EMF of 0.59 V at 298 K. If the temperature is raised to 308 K, what will be the new EMF of the cell if the reaction is n=2?",
+        "options": {
+          "A": "0.59 V",
+          "B": "0.60 V",
+          "C": "0.58 V",
+          "D": "Cannot be determined"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The EMF of a cell is independent of the temperature if the reaction quotient remains constant. Therefore, the EMF of the cell will remain the same.",
+        "topic": "Electrochemistry",
+        "subtopic": "EMF of a cell",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 10,
+        "question_text": "A cell has an EMF of 0.59 V at 298 K. If the temperature is raised to 308 K, what will be the new EMF of the cell if the reaction is n=2?",
+        "options": {
+          "A": "0.59 V",
+          "B": "0.66 V",
+          "C": "0.58 V",
+          "D": "0.60 V"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The EMF of a cell is independent of the temperature if the reaction quotient remains constant. Therefore, the EMF of the cell will remain the same.",
+        "topic": "Electrochemistry",
+        "subtopic": "",
+        "difficulty": "Medium"
+      }
+    ]
+  }
+}
