@@ -1,0 +1,165 @@
+{
+  "teacher_name": "Ishant",
+  "test_id": "ISHANT_20250705_77",
+  "created_at": "2025-07-05T19:35:29.772800",
+  "subject": "Physics",
+  "topics": [
+    "Current Electricity",
+    "Rotational Motion"
+  ],
+  "additional_info": "",
+  "difficulty": "Hard",
+  "total_questions": 10,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "A potentiometer is used to measure the potential difference across a resistor in a circuit. If the resistor is replaced with another of half the resistance and the rest of the circuit is unchanged, what happens to the potential difference across the resistor?",
+      "options": {
+        "A": "It halves",
+        "B": "It doubles",
+        "C": "It remains the same",
+        "D": "It quadruples"
+      },
+      "correct_answer": "C",
+      "explanation": "The potentiometer measures the potential difference across the components of the circuit, which is determined by the source and not the resistance of individual components.",
+      "topic": "Current Electricity",
+      "subtopic": "Potentiometer",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 2,
+      "question_text": "An RC circuit with a battery, resistor and capacitor is connected. At the instant the switch is closed, what is the current in the circuit?",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Half of the maximum",
+        "D": "Cannot be determined"
+      },
+      "correct_answer": "B",
+      "explanation": "At the instant the switch is closed, the capacitor behaves like a short circuit, so the current in the circuit is maximum.",
+      "topic": "Current Electricity",
+      "subtopic": "RC Circuits",
+      "difficulty": "Medium"
+    },
+    {
+      "question_number": 3,
+      "question_text": "An object is rolling without slipping. Its kinetic energy can be represented as...",
+      "options": {
+        "A": "K=1/2 mv\u00b2",
+        "B": "K=1/2 I\u03c9\u00b2",
+        "C": "K=mv\u00b2",
+        "D": "K=1/2 mv\u00b2 + 1/2 I\u03c9\u00b2"
+      },
+      "correct_answer": "D",
+      "explanation": "For an object rolling without slipping, the total kinetic energy is the sum of its translational kinetic energy (1/2 mv\u00b2) and its rotational kinetic energy (1/2 I\u03c9\u00b2).",
+      "topic": "Rotational Motion",
+      "subtopic": "Kinetic Energy in Rotation",
+      "difficulty": "Medium"
+    },
+    {
+      "question_number": 4,
+      "question_text": "If the moment of inertia of a rotating body is doubled and its angular velocity is halved, then the angular momentum...",
+      "options": {
+        "A": "Remains the same",
+        "B": "Becomes half",
+        "C": "Becomes double",
+        "D": "Cannot be determined"
+      },
+      "correct_answer": "A",
+      "explanation": "Angular momentum (L) is the product of the moment of inertia (I) and angular velocity (\u03c9). If I is doubled and \u03c9 is halved, their product remains the same.",
+      "topic": "Rotational Motion",
+      "subtopic": "Angular Momentum",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 5,
+      "question_text": "In an RC circuit, the time constant is the product of resistance and capacitance. If both the resistance and capacitance are doubled, what happens to the time constant?",
+      "options": {
+        "A": "It remains the same",
+        "B": "It becomes half",
+        "C": "It becomes double",
+        "D": "It becomes four times"
+      },
+      "correct_answer": "D",
+      "explanation": "The time constant (\u03c4) of an RC circuit is given by \u03c4=RC. If both R and C are doubled, then \u03c4 becomes four times.",
+      "topic": "Current Electricity",
+      "subtopic": "RC Circuits",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Two resistors of resistances R1 and R2 (R1 < R2) are connected in parallel. Which statement is true about the equivalent resistance?",
+      "options": {
+        "A": "It is greater than R1 but less than R2",
+        "B": "It is less than R1",
+        "C": "It is between the harmonic mean and arithmetic mean of R1 and R2",
+        "D": "Both B and C"
+      },
+      "correct_answer": "D",
+      "explanation": "For parallel combination, the equivalent resistance is always less than the smallest resistance and is between the harmonic mean and arithmetic mean of the resistances.",
+      "topic": "Current Electricity",
+      "subtopic": "Resistances in Parallel",
+      "difficulty": "Medium"
+    },
+    {
+      "question_number": 7,
+      "question_text": "A potentiometer wire has length L and resistance R. If the length of the wire is doubled by stretching, what happens to the potential gradient of the wire?",
+      "options": {
+        "A": "It remains the same",
+        "B": "It becomes half",
+        "C": "It doubles",
+        "D": "It becomes four times"
+      },
+      "correct_answer": "B",
+      "explanation": "The potential gradient is the potential difference per unit length. If the length is doubled, the potential gradient becomes half.",
+      "topic": "Current Electricity",
+      "subtopic": "Potentiometer",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 8,
+      "question_text": "For a body in rotational motion, which quantity remains constant if no external torque is applied?",
+      "options": {
+        "A": "Angular velocity",
+        "B": "Angular acceleration",
+        "C": "Angular momentum",
+        "D": "Moment of inertia"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the law of conservation of angular momentum, if no external torque is applied, the angular momentum of a rotating body remains constant.",
+      "topic": "Rotational Motion",
+      "subtopic": "Angular Momentum",
+      "difficulty": "Medium"
+    },
+    {
+      "question_number": 9,
+      "question_text": "In an RC circuit, if the resistance is doubled while keeping the capacitance constant, what happens to the charging time of the capacitor?",
+      "options": {
+        "A": "It remains the same",
+        "B": "It becomes half",
+        "C": "It doubles",
+        "D": "It cannot be determined"
+      },
+      "correct_answer": "C",
+      "explanation": "The charging time of a capacitor in an RC circuit is directly proportional to the resistance. If the resistance is doubled, the charging time also doubles.",
+      "topic": "Current Electricity",
+      "subtopic": "RC Circuits",
+      "difficulty": "Hard"
+    },
+    {
+      "question_number": 10,
+      "question_text": "What is the net torque acting on a body at rotational equilibrium?",
+      "options": {
+        "A": "Zero",
+        "B": "Equal to the moment of inertia",
+        "C": "Maximum",
+        "D": "Cannot be determined"
+      },
+      "correct_answer": "A",
+      "explanation": "A body is in rotational equilibrium when the net torque acting on it is zero. This means that all the torques acting on the body cancel each other out.",
+      "topic": "Rotational Motion",
+      "subtopic": "Torque",
+      "difficulty": "Medium"
+    }
+  ]
+}
