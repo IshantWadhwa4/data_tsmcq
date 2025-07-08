@@ -1,0 +1,199 @@
+{
+  "student_name": "DHRUV",
+  "student_email": "",
+  "student_id": "",
+  "test_id": "ISHANTWADHWA_20250708_69",
+  "teacher_name": "Ishant Wadhwa",
+  "test_info": {
+    "subject": "Physics",
+    "topics": [
+      "Heat and Thermodynamics",
+      "Gravitation",
+      "Optics"
+    ],
+    "difficulty": "Hard",
+    "created_at": "2025-07-08T13:36:19.617466",
+    "total_questions": 10,
+    "exam_duration_minutes": 30
+  },
+  "completed_at": "2025-07-08T13:37:55.157987",
+  "time_taken_minutes": 0,
+  "auto_submitted": false,
+  "score": {
+    "total_questions": 10,
+    "correct_answers": 5,
+    "score_percentage": 50.0,
+    "results": [
+      {
+        "question_number": 1,
+        "question_text": "A Carnot engine operates between two reservoirs at temperatures T1 = 500K and T2 = 300K. What is the efficiency of the engine?",
+        "options": {
+          "A": "0.4",
+          "B": "0.67",
+          "C": "0.33",
+          "D": "0.7"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The efficiency of a Carnot engine is given by 1 - T2/T1. Substituting the given values, we get 1 - 300/500 = 0.4",
+        "topic": "Heat and Thermodynamics",
+        "subtopic": "Carnot cycle",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 2,
+        "question_text": "A planet is orbiting the sun. If the radius of the orbit is halved, what happens to the gravitational force on the planet?",
+        "options": {
+          "A": "It becomes four times as large",
+          "B": "It becomes twice as large",
+          "C": "It becomes half as large",
+          "D": "It remains the same"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "According to Newton's law of gravitation, the gravitational force is inversely proportional to the square of the distance. Hence, if the radius is halved, the gravitational force becomes four times as large.",
+        "topic": "Gravitation",
+        "subtopic": "Newton's law of gravitation",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 3,
+        "question_text": "A double-slit experiment is performed with light of wavelength 600 nm. The separation between the slits is 0.5 mm. What is the angle of the first-order fringe?",
+        "options": {
+          "A": "0.06 degrees",
+          "B": "0.12 degrees",
+          "C": "0.24 degrees",
+          "D": "0.48 degrees"
+        },
+        "student_answer": "A",
+        "correct_answer": "C",
+        "is_correct": false,
+        "explanation": "The angle of the m-th order fringe in a double-slit experiment is given by \u03b8 = arcsin(m\u03bb/d), where \u03bb is the wavelength, d is the separation between the slits, and m is the order of the fringe. Substituting the given values, we get \u03b8 = arcsin(1*600*10^-9 / 0.5*10^-3) = 0.24 degrees.",
+        "topic": "Optics",
+        "subtopic": "Interference",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 4,
+        "question_text": "A sample of gas expands at a constant pressure of 1 atm from 10 L to 20 L. The process is adiabatic. What happens to the internal energy of the gas?",
+        "options": {
+          "A": "It increases",
+          "B": "It decreases",
+          "C": "It remains the same",
+          "D": "It cannot be determined without knowing the specific heat of the gas"
+        },
+        "student_answer": "A",
+        "correct_answer": "B",
+        "is_correct": false,
+        "explanation": "In an adiabatic process, the change in internal energy is equal to the work done on the gas. Since the gas is expanding, work is done by the gas, so the internal energy decreases.",
+        "topic": "Heat and Thermodynamics",
+        "subtopic": "Adiabatic process",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 5,
+        "question_text": "What is the escape velocity from the surface of a planet with radius R and mass M?",
+        "options": {
+          "A": "sqrt(2GM/R)",
+          "B": "sqrt(GM/R)",
+          "C": "sqrt(2GM/R^2)",
+          "D": "sqrt(GM/R^2)"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The escape velocity from the surface of a planet is given by sqrt(2GM/R), where G is the gravitational constant, M is the mass of the planet, and R is the radius of the planet.",
+        "topic": "Gravitation",
+        "subtopic": "Escape velocity",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 6,
+        "question_text": "A lens has a focal length of 10 cm. An object is placed 20 cm in front of the lens. Where is the image formed?",
+        "options": {
+          "A": "10 cm in front of the lens",
+          "B": "20 cm in front of the lens",
+          "C": "10 cm behind the lens",
+          "D": "20 cm behind the lens"
+        },
+        "student_answer": "A",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "The lens formula is 1/f = 1/v - 1/u, where f is the focal length, v is the image distance, and u is the object distance. Solving for v, we get v = fu / (u - f) = 20 cm, which is behind the lens.",
+        "topic": "Optics",
+        "subtopic": "Lens equations",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 7,
+        "question_text": "A Carnot engine operates between two reservoirs at temperatures 500K and 300K. What is the change in entropy of the universe after one cycle?",
+        "options": {
+          "A": "Zero",
+          "B": "Positive",
+          "C": "Negative",
+          "D": "Cannot be determined without knowing the heat transferred"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "For a Carnot cycle, the engine operates reversibly, so the change in entropy of the universe is zero.",
+        "topic": "Heat and Thermodynamics",
+        "subtopic": "Entropy",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 8,
+        "question_text": "What is the resolving power of a microscope that can distinguish two points separated by a distance of 200 nm?",
+        "options": {
+          "A": "2*10^6",
+          "B": "5*10^6",
+          "C": "1*10^6",
+          "D": "0.5*10^6"
+        },
+        "student_answer": "A",
+        "correct_answer": "C",
+        "is_correct": false,
+        "explanation": "The resolving power of a microscope is the reciprocal of the smallest distance it can distinguish. Hence, it is 1/(200*10^-9) = 1*10^6.",
+        "topic": "Optics",
+        "subtopic": "Resolving power",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 9,
+        "question_text": "A satellite is in a circular orbit around the earth. If the radius of the orbit is doubled, what happens to the period of the satellite?",
+        "options": {
+          "A": "It becomes root two times as large",
+          "B": "It becomes twice as large",
+          "C": "It becomes four times as large",
+          "D": "It becomes eight times as large"
+        },
+        "student_answer": "A",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "According to Kepler's third law, the square of the period of a satellite is proportional to the cube of the radius of its orbit. Hence, if the radius is doubled, the period becomes sqrt(2^3) = 2^1.5 = 2.83 times as large, which is closest to eight times as large.",
+        "topic": "Gravitation",
+        "subtopic": "Satellite motion",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 10,
+        "question_text": "A calorimeter contains 100 g of water at 20 degrees Celsius. If 50 g of steam at 100 degrees Celsius is added to the calorimeter, what will be the final temperature of the water?",
+        "options": {
+          "A": "80 degrees Celsius",
+          "B": "60 degrees Celsius",
+          "C": "40 degrees Celsius",
+          "D": "20 degrees Celsius"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The heat gained by the water is equal to the heat lost by the steam. The heat gained by the water is mc\u0394T, where m is the mass, c is the specific heat capacity, and \u0394T is the change in temperature. The heat lost by the steam is mL, where m is the mass and L is the latent heat of vaporization. Solving for the final temperature, we get T = 80 degrees Celsius.",
+        "topic": "Heat and Thermodynamics",
+        "subtopic": "Calorimetry",
+        "difficulty": "Hard"
+      }
+    ]
+  }
+}
