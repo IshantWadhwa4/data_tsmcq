@@ -1,0 +1,199 @@
+{
+  "student_name": "Ishant",
+  "student_email": "",
+  "student_id": "",
+  "test_id": "SANDEEPSINGH_20250711_33",
+  "teacher_name": "Sandeep Singh",
+  "test_info": {
+    "subject": "Mathematics",
+    "topics": [
+      "Differential Equations",
+      "Vector Algebra",
+      "Probability and Statistics"
+    ],
+    "difficulty": "Hard",
+    "created_at": "2025-07-11T06:40:37.603124",
+    "total_questions": 10,
+    "exam_duration_minutes": 30
+  },
+  "completed_at": "2025-07-11T06:43:16.586306",
+  "time_taken_minutes": 0,
+  "auto_submitted": false,
+  "score": {
+    "total_questions": 10,
+    "correct_answers": 4,
+    "score_percentage": 40.0,
+    "results": [
+      {
+        "question_number": 1,
+        "question_text": "If y = e^(ax+b) + e^(ax-b), then the differential equation is",
+        "options": {
+          "A": "y'' - a^2y = 0",
+          "B": "y'' + a^2y = 0",
+          "C": "y'' - b^2y = 0",
+          "D": "y'' + b^2y = 0"
+        },
+        "student_answer": "C",
+        "correct_answer": "B",
+        "is_correct": false,
+        "explanation": "The given function y = e^(ax+b) + e^(ax-b) is the sum of two exponential functions. The second derivative of each is a multiple of the function itself with a factor of a^2. Therefore, the differential equation is y'' + a^2y = 0.",
+        "topic": "Differential Equations",
+        "subtopic": "Formation of Differential Equations",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 2,
+        "question_text": "If the vectors A = 3i - j + 2k and B = 2i + 3j - k are given, then the vector perpendicular to both A and B is",
+        "options": {
+          "A": "5i + 7j + 11k",
+          "B": "7i - 5j + k",
+          "C": "5i - 7j + k",
+          "D": "7i + 5j - k"
+        },
+        "student_answer": "B",
+        "correct_answer": "A",
+        "is_correct": false,
+        "explanation": "The vector perpendicular to both A and B is given by their cross product A x B = (3i - j + 2k) x (2i + 3j - k) = 5i + 7j + 11k.",
+        "topic": "Vector Algebra",
+        "subtopic": "Vector Products",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 3,
+        "question_text": "A bag contains 4 red, 3 green, and 2 blue balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is red or green?",
+        "options": {
+          "A": "1/3",
+          "B": "7/9",
+          "C": "2/3",
+          "D": "1/2"
+        },
+        "student_answer": "C",
+        "correct_answer": "B",
+        "is_correct": false,
+        "explanation": "There are a total of 9 balls and 7 of them are either red or green. So, the probability is 7/9.",
+        "topic": "Probability and Statistics",
+        "subtopic": "Classical Probability",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 4,
+        "question_text": "The solution of the differential equation dy/dx + 2y = 0 with the initial condition y(0) = 1 is",
+        "options": {
+          "A": "y = e^-2x",
+          "B": "y = e^2x",
+          "C": "y = 2e^-x",
+          "D": "y = e^-x"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The given is a first-order linear differential equation. Using integration factor method, the solution is y = e^-2x.",
+        "topic": "Differential Equations",
+        "subtopic": "First-order, First-degree DEs",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 5,
+        "question_text": "The scalar product of the vectors A = 2i - j + 3k and B = i + 2j - 2k is",
+        "options": {
+          "A": "0",
+          "B": "1",
+          "C": "-1",
+          "D": "2"
+        },
+        "student_answer": "C",
+        "correct_answer": "D",
+        "is_correct": false,
+        "explanation": "The scalar product of A and B is given by A.B = 2*1 + (-1)*2 + 3*(-2) = 2.",
+        "topic": "Vector Algebra",
+        "subtopic": "Scalar Products",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 6,
+        "question_text": "In a binomial distribution, the mean is 4 and the variance is 2. What is the number of trials?",
+        "options": {
+          "A": "8",
+          "B": "6",
+          "C": "4",
+          "D": "2"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "In a binomial distribution, the mean is np and the variance is npq. Given that the mean is 4 and the variance is 2, we have 4 = np and 2 = 4q. Solving these, we get n = 8.",
+        "topic": "Probability and Statistics",
+        "subtopic": "Variance",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 7,
+        "question_text": "If the vectors A = 2i + j - k and B = i - 2j + k are given, then the angle between A and B is",
+        "options": {
+          "A": "0",
+          "B": "pi/2",
+          "C": "pi/4",
+          "D": "pi/3"
+        },
+        "student_answer": "A",
+        "correct_answer": "B",
+        "is_correct": false,
+        "explanation": "The angle between two vectors A and B is given by cos\u03b8 = A.B / |A||B|. Substituting values, we get 0. Hence, \u03b8 = pi/2.",
+        "topic": "Vector Algebra",
+        "subtopic": "Vector Geometry",
+        "difficulty": "Hard"
+      },
+      {
+        "question_number": 8,
+        "question_text": "If a radioactive substance decays at a rate proportional to the amount remaining, which of the following differential equations represents this?",
+        "options": {
+          "A": "dy/dt = ky",
+          "B": "dy/dt = -ky",
+          "C": "d^2y/dt^2 = ky",
+          "D": "d^2y/dt^2 = -ky"
+        },
+        "student_answer": "C",
+        "correct_answer": "B",
+        "is_correct": false,
+        "explanation": "The rate of decay is proportional to the amount remaining, which leads to a differential equation of the form dy/dt = -ky where k is the constant of proportionality.",
+        "topic": "Differential Equations",
+        "subtopic": "Applications to Growth/Decay Models",
+        "difficulty": "Easy"
+      },
+      {
+        "question_number": 9,
+        "question_text": "Given two events A and B such that P(A) = 1/2, P(B) = 1/3, and P(A intersect B) = 1/4. What is P(A|B)?",
+        "options": {
+          "A": "3/4",
+          "B": "2/3",
+          "C": "1/2",
+          "D": "1/3"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The conditional probability P(A|B) is given by P(A intersect B) / P(B) = 1/4 / 1/3 = 3/4.",
+        "topic": "Probability and Statistics",
+        "subtopic": "Conditional Probability",
+        "difficulty": "Medium"
+      },
+      {
+        "question_number": 10,
+        "question_text": "Given two events A and B such that P(A) = 1/2, P(B) = 1/3, and P(A intersect B) = 1/4. What is P(A|B)?",
+        "options": {
+          "A": "2",
+          "B": "4",
+          "C": "5",
+          "D": "8"
+        },
+        "student_answer": "A",
+        "correct_answer": "A",
+        "is_correct": true,
+        "explanation": "The conditional probability P(A|B) is given by P(A intersect B) / P(B) = 1/4 / 1/3 = 3/4.",
+        "topic": "Probability and Statistics",
+        "subtopic": "",
+        "difficulty": "Easy"
+      }
+    ]
+  }
+}
